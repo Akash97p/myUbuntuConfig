@@ -8,7 +8,7 @@ git clone https://github.com/Akash97p/myUbuntuConfig
 
 cd myUbuntuConfig
 
-bash install.sh --theme
+bash mySysConf.sh --theme
 
 ```
 
