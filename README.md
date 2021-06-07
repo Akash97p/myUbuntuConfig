@@ -14,7 +14,7 @@ bash mySysConf.sh --theme
 
 The above script will install gnome tweaks and extensions.
 
-# 🔹️Import Dash to panel and Arc menu config manualy .
+# 🔹️Import Dash to panel and Arc menu config manualy 
 
 ## 🔸️Arc Menu
 
